@@ -1,3 +1,4 @@
 #+AUTHOR: fructosa
 ** Interests
-- 🍭 Languages (formal, human, programming...)
+- Languages (formal, human, programming⋯)
+- Design (interfaces, patterns, etc⋯)
